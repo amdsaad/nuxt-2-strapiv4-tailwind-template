@@ -1,6 +1,6 @@
 export default {
   head: {
-    title: 'membership-web-app',
+    title: 'nuxt-2-strapiv4-tailwind-template',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
